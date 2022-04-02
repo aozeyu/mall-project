@@ -1,5 +1,6 @@
 package com.marco.mall.tiny.controller;
 
+import com.marco.mall.tiny.dto.PmsBrand;
 import com.marco.mall.tiny.service.PmsBrandService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
